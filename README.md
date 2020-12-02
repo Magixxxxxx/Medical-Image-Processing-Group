@@ -126,8 +126,7 @@ List shared papers in our group
 |2019.10.14|赵杨<br>（上采样，Deformable Conv）|1）《CARAFE: Content-Aware ReAssembly of FEatures》（arXiv-2019）<br>2）《Deformable convolutional networks》（ICCV-2017）<br>3）《Deformable convnets v2: More deformable, better results》（CVPR-2019）||
 |2019.10.11|1. 苑思明<br>（Texture Classification）|《Multiresolution Gray-Scale and Rotation Invariant Texture Classification with Local Binary Patterns》（PAMI-2002）||
 |2019.10.11|2. 王都<br>（Object Detection）|《Libra r-cnn: Towards balanced learning for object detection》（CVPR-2019）<br>《Prime Sample Attention in Object Detection》（arXiv-2019）||
-|2019.10.8|李阳<br>（Features Aggregation）
-|1. Deep Layer Aggregation (CVPR2018) <br>2. DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation (CVPR2019) <br>3. Data-Driven Neuron Allocation for Scale Aggregation Networks (CVPR2019) ||
+|2019.10.8|李阳<br>（Features Aggregation）|1. Deep Layer Aggregation (CVPR2018) <br>2. DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation (CVPR2019) <br>3. Data-Driven Neuron Allocation for Scale Aggregation Networks (CVPR2019) ||
 |2019.9.30|尹志华<br>（目标检测）|《RepPoints: Point Set Representation for Object Detection》（arXiv-2019 ||
 |2019.9.2|冯硕<br>（目标检测）|FreeAnchor: Learning to Match Anchors for Visual Object Detection（NeurIPS-2019 ）||
 |2019.9.2|1）陈佳林<br>（image-to-image translation）|Multimodal unsupervised image-to-image translation（ECCV-2018）||
