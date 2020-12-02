@@ -9,53 +9,53 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2020.12.03|1. 潘长立<br>（目标检测） |《Dive Deeper Into Box for Object Detection》 （ECCV 2020） ||
-|2020.12.03|2. 张永胜<br>（语义分割） |《CCNet：Criss-Cross Attention for Semantic Segmentation》 （ICCV 2019） ||
-|2020.11.26|1. 李阳<br>（语义分割） |《mining cross-image semantics for weakly supervised semantic segmentation》 （ECCV 2020） ||
-|2020.11.26|2. 耿瑞祥<br>（目标检测） |《Missing Labels in Object Detection》 （CVPR 2019） ||
-|2020.11.16|1. 何柱君<br>（目标检测） |《RelationNet++: Bridging Visual Representations for Object Detection via Transformer Decoder》 （NIPS 2020） ||
-|2020.11.16|2. 邬任重<br>（VAE、GAN） |《Bringing Old Photos Back to Life》 （CVPR 2020 oral） ||
-|2020.11.09|1. 冯硕<br>（目标检测） |《Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection》 （NIPS 2020） ||
-|2020.11.09|2. 赵嘉伟<br>（增量学习） |《Piggyback GAN: Efficient Lifelong Learning for Image Conditioned Generation》 （ECCV 2020） ||
-|2020.11.02|1. 刘浩天<br>（长尾问题） |《Feature Space Augmentation for Long-Tailed Data》 （ECCV 2020） ||
-|2020.11.02|2. 赵杨<br>（目标检测） |《LabelEnc: A New Intermediate Supervision Method for Object Detection》 （ECCV 2020） ||
-|2020.10.26|1. 苑思明<br>（检测、分割） |《Point-Set Anchors for Object Detection, Instance Segmentation and Pose Estimation》 （ECCV 2020） ||
-|2020.10.26|2. 张永胜<br>（对比学习） |《Contrastive learning of global and local features for medical image segmentation with limited annotations》 （NIPS 2020） ||
-|2020.10.19|1. 赵嘉伟<br>（增量学习） |《Incremental Few-Shot Object Detection》 （CVPR 2020） ||
-|2020.10.19|2. 耿瑞祥<br>（对比学习） |《Prototypical Contrastive Learning of Unsupervised Representations》 （arXiv 2020） ||
-|2020.10.12|1. 王都<br>（网络结构） |《Visual Transformers: Token-based Image Representation and Processing for Computer Vision》 （arXiv 2020） ||
-|2020.10.12|2. 赵杨<br>（对比学习） |《Hard Negative Mixing for Contrastive Learning》 （arXiv 2020） ||
-|2020.10.5|1. 李阳<br>（语义分割） |《Object-Contextual Representations for Semantic Segmentation》 （ECCV 2020） ||
-|2020.10.5|2. 邬任重<br>（自动编码） |《Adversarial Latent Autoencoders》 （CVPR 2020） ||
-|2020.9.28|1. 冯硕<br>（目标检测） |《RepPoints v2: Verification Meets Regression for Object Detection》 （arXiv 2020） ||
-|2020.9.28|2. 刘浩天<br>（mixup） |《Manifold mixup: Better representations by interpolating hidden states》 （ICML 2019） ||
-|2020.9.21|1. 苑思明<br>（实例分割） |《EmbedMask: Embedding Coupling for One-stage Instance Segmentation》 （CVPR 2020） ||
-|2020.9.21|2. 赵杨<br>（对比学习） |《What Should Not Be Contrastive in Contrastive Learning》 （arxiv 2020） ||
-|2020.9.14|1. 赵嘉伟<br>（增量学习） |《Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights》 （ECCV 2018） ||
-|2020.9.14|2. 王都<br>（分割） |《Semantic Flow for Fast and Accurate Scene Parsing》 （ECCV 2020） ||
-|2020.9.7|1. 李阳<br>（改进空洞卷积） |《PSConv: sqeezing feature pyramid into one compact poly-scale convolutional layer》 （ECCV 2020） ||
-|2020.9.7|2. 赵杨<br>（对比学习） |《Contrastive Multiview Coding》 （arxiv 2019） ||
-|2020.8.31|1. 冯硕<br>（目标检测） |《BorderDet: Border Feature for Dense Object Detection》 （ECCV 2020） ||
-|2020.8.31|2. 刘浩天<br>（语义分割） |《Dual Super-Resolution Learning for Semantic Segmentation》 （CVPR 2020） ||
-|2020.8.24|1. 王都<br>（transformer优化）|《Reformer: The Efficient Transformer》 （ICLR 2020）||
-|2020.8.24|2. 苑思明<br>（检测和分割）|《D2Det: Towards High Quality Object Detection and Instance Segmentation》 （CVPR 2020）||
-|2020.8.17|1. 李阳<br>（语义分割） |《Improving Semantic Segmentation via Decoupled Body and Edge Supervision》 （ECCV 2020）||
-|2020.8.17|2. 赵嘉伟<br>（增量学习） |《Editable Neural Networks》 （ICLR 2020） ||
-|2020.8.10|1. 冯硕<br>（特征金字塔） |《Feature Pyramid Transformer》 （ECCV 2020） ||
+|2020.12.03|1. 潘长立<br>（目标检测） |《Dive Deeper Into Box for Object Detection》 （ECCV 2020） | [article](https://arxiv.org/abs/2007.14350 )|
+|2020.12.03|2. 张永胜<br>（语义分割） |《CCNet：Criss-Cross Attention for Semantic Segmentation》 （ICCV 2019） | [article](https://arxiv.org/abs/1811.11721)|
+|2020.11.26|1. 李阳<br>（语义分割） |《mining cross-image semantics for weakly supervised semantic segmentation》 （ECCV 2020） | [article](https://arxiv.org/abs/2007.01947 )|
+|2020.11.26|2. 耿瑞祥<br>（目标检测） |《Missing Labels in Object Detection》 （CVPR 2019） | [article](http://cn.hk.uy/476)|
+|2020.11.16|1. 何柱君<br>（目标检测） |《RelationNet++: Bridging Visual Representations for Object Detection via Transformer Decoder》 （NIPS 2020） | [article](https://arxiv.org/abs/2010.15831 )|
+|2020.11.16|2. 邬任重<br>（VAE、GAN） |《Bringing Old Photos Back to Life》 （CVPR 2020 oral） | [article](https://arxiv.org/abs/2004.09484v1)|
+|2020.11.09|1. 冯硕<br>（目标检测） |《Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection》 （NIPS 2020） | [article](https://arxiv.org/abs/2006.04388 )|
+|2020.11.09|2. 赵嘉伟<br>（增量学习） |《Piggyback GAN: Efficient Lifelong Learning for Image Conditioned Generation》 （ECCV 2020） | [article](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660392.pdf)|
+|2020.11.02|1. 刘浩天<br>（长尾问题） |《Feature Space Augmentation for Long-Tailed Data》 （ECCV 2020） | [article](https://arxiv.org/abs/2008.03673v1 )|
+|2020.11.02|2. 赵杨<br>（目标检测） |《LabelEnc: A New Intermediate Supervision Method for Object Detection》 （ECCV 2020） | [article](https://arxiv.org/abs/2007.03282)|
+|2020.10.26|1. 苑思明<br>（检测、分割） |《Point-Set Anchors for Object Detection, Instance Segmentation and Pose Estimation》 （ECCV 2020） | [article](https://arxiv.org/abs/2007.02846 )|
+|2020.10.26|2. 张永胜<br>（对比学习） |《Contrastive learning of global and local features for medical image segmentation with limited annotations》 （NIPS 2020） | [article](https://arxiv.org/abs/2006.10511)|
+|2020.10.19|1. 赵嘉伟<br>（增量学习） |《Incremental Few-Shot Object Detection》 （CVPR 2020） | [article](https://arxiv.org/abs/2003.04668 )|
+|2020.10.19|2. 耿瑞祥<br>（对比学习） |《Prototypical Contrastive Learning of Unsupervised Representations》 （arXiv 2020） | [article](https://arxiv.org/abs/2005.04966)|
+|2020.10.12|1. 王都<br>（网络结构） |《Visual Transformers: Token-based Image Representation and Processing for Computer Vision》 （arXiv 2020） | [article](https://arxiv.org/abs/2006.03677 )|
+|2020.10.12|2. 赵杨<br>（对比学习） |《Hard Negative Mixing for Contrastive Learning》 （arXiv 2020） | [article](https://arxiv.org/abs/2010.01028)|
+|2020.10.5|1. 李阳<br>（语义分割） |《Object-Contextual Representations for Semantic Segmentation》 （ECCV 2020） | [article](https://arxiv.org/abs/1909.11065 )|
+|2020.10.5|2. 邬任重<br>（自动编码） |《Adversarial Latent Autoencoders》 （CVPR 2020） | [article](https://arxiv.org/abs/2004.04467)|
+|2020.9.28|1. 冯硕<br>（目标检测） |《RepPoints v2: Verification Meets Regression for Object Detection》 （arXiv 2020） | [article](https://arxiv.org/abs/2007.08508 )|
+|2020.9.28|2. 刘浩天<br>（mixup） |《Manifold mixup: Better representations by interpolating hidden states》 （ICML 2019） | [article](https://arxiv.org/abs/1806.05236v7 )|
+|2020.9.21|1. 苑思明<br>（实例分割） |《EmbedMask: Embedding Coupling for One-stage Instance Segmentation》 （CVPR 2020） | [article](https://arxiv.org/abs/1912.01954 )|
+|2020.9.21|2. 赵杨<br>（对比学习） |《What Should Not Be Contrastive in Contrastive Learning》 （arxiv 2020） | [article](https://arxiv.org/abs/2008.05659)|
+|2020.9.14|1. 赵嘉伟<br>（增量学习） |《Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights》 （ECCV 2018） | [article](https://arxiv.org/abs/1801.06519v2 )|
+|2020.9.14|2. 王都<br>（分割） |《Semantic Flow for Fast and Accurate Scene Parsing》 （ECCV 2020） | [article](https://arxiv.org/abs/2002.10120)|
+|2020.9.7|1. 李阳<br>（改进空洞卷积） |《PSConv: sqeezing feature pyramid into one compact poly-scale convolutional layer》 （ECCV 2020） | [article](https://arxiv.org/abs/2007.06191 )|
+|2020.9.7|2. 赵杨<br>（对比学习） |《Contrastive Multiview Coding》 （arxiv 2019） | [article](https://arxiv.org/abs/1906.05849)|
+|2020.8.31|1. 冯硕<br>（目标检测） |《BorderDet: Border Feature for Dense Object Detection》 （ECCV 2020） | [article](https://arxiv.org/abs/2007.11056 )|
+|2020.8.31|2. 刘浩天<br>（语义分割） |《Dual Super-Resolution Learning for Semantic Segmentation》 （CVPR 2020） | [article](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Dual_Super-Resolution_Learning_for_Semantic_Segmentation_CVPR_2020_paper.pdf)|
+|2020.8.24|1. 王都<br>（transformer优化）|《Reformer: The Efficient Transformer》 （ICLR 2020）| [article](https://arxiv.org/abs/2001.04451)|
+|2020.8.24|2. 苑思明<br>（检测和分割）|《D2Det: Towards High Quality Object Detection and Instance Segmentation》 （CVPR 2020）|[article](http://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_D2Det_Towards_High_Quality_Object_Detection_and_Instance_Segmentation_CVPR_2020_paper.pdf)|
+|2020.8.17|1. 李阳<br>（语义分割） |《Improving Semantic Segmentation via Decoupled Body and Edge Supervision》 （ECCV 2020）| [article](https://arxiv.org/abs/2007.10035 )|
+|2020.8.17|2. 赵嘉伟<br>（增量学习） |《Editable Neural Networks》 （ICLR 2020） | [article](https://arxiv.org/abs/2004.00345)|
+|2020.8.10|1. 冯硕<br>（特征金字塔） |《Feature Pyramid Transformer》 （ECCV 2020） | [article](https://arxiv.org/abs/2007.09451 )|
 |2020.8.10|2. 刘浩天 |工作报告||
-|2020.08.03|1. 苑思明<br>（实例分割） |《PolyTransform: Deep Polygon Transformer for Instance Segmentation》 （CVPR 2020） ||
-|2020.08.03|2. 王都<br>（transformer） |《On Layer Normalization in the Transformer Architecture》 （ICML 2020） ||
-|2020.7.27|1. 李阳<br>（注意力机制） |《ECA-Net:Efficient Channel Attention for Deep Convolutional Neural Networks》 （CVPR 2020） ||
-|2020.7.27|2. 赵嘉伟<br>（增量学习） |《Faster ILOD Incremental Learning for Object Detectors based on FasterRCNN》 （PRL 2020） ||
-|2020.7.20|1. 刘浩天<br>（分类） |《Overcoming Classifier Imbalance for Long-tail Object Detection with Balanced Group Softmax》 （CVPR 2020 Oral） ||
+|2020.08.03|1. 苑思明<br>（实例分割） |《PolyTransform: Deep Polygon Transformer for Instance Segmentation》 （CVPR 2020） | [article](https://arxiv.org/abs/1912.02801 )|
+|2020.08.03|2. 王都<br>（transformer） |《On Layer Normalization in the Transformer Architecture》 （ICML 2020） | [article](https://arxiv.org/abs/2002.04745v1)|
+|2020.7.27|1. 李阳<br>（注意力机制） |《ECA-Net:Efficient Channel Attention for Deep Convolutional Neural Networks》 （CVPR 2020） | [article](https://arxiv.org/abs/1910.03151v2 )|
+|2020.7.27|2. 赵嘉伟<br>（增量学习） |《Faster ILOD Incremental Learning for Object Detectors based on FasterRCNN》 （PRL 2020） | [article](https://arxiv.org/abs/2003.03901)|
+|2020.7.20|1. 刘浩天<br>（分类） |《Overcoming Classifier Imbalance for Long-tail Object Detection with Balanced Group Softmax》 （CVPR 2020 Oral） | [article](https://arxiv.org/abs/2006.10408v1 )|
 |2020.7.20|2. 潘长立 |工作报告||
-|2020.7.13|1. 何柱君<br>（目标检测） |《Large-Scale Object Detection in the Wild from Imbalanced Multi-Labels》 （CVPR 2020 Oral） ||
-|2020.7.13|2. 冯硕<br>（实例分割） |《Conditional Convolutions for Instance Segmentation》 （ECCV 2020） ||
+|2020.7.13|1. 何柱君<br>（目标检测） |《Large-Scale Object Detection in the Wild from Imbalanced Multi-Labels》 （CVPR 2020 Oral） | [article](https://arxiv.org/pdf/2005.08455.pdf )|
+|2020.7.13|2. 冯硕<br>（实例分割） |《Conditional Convolutions for Instance Segmentation》 （ECCV 2020） | [article](https://arxiv.org/pdf/2003.05664.pdf)|
 |2020.7.6|1. 苑思明<br>（实例分割） |《Mask Encoding for Single Shot Instance Segmentation》 （CVPR 2020） ||
 |2020.7.6|2. 王都<br>（分类） |《BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition》 （CVPR 2020）||
 |2020.6.29|1. 李阳<br>（实例分割） |《Deep Snake for Real-Time Instance Segmentation》 （CVPR 2020 Oral） ||
 |2020.6.29|2. 赵嘉伟<br>（增量学习） |《Task-free Continual Learning》 （CVPR 2019） <br>《Dropout as an Implicit Gating Mechanism For Continual Learning》（CVPR 2020 Workshops）||
-|2020.6.19|1. 冯硕<br>（目标检测） |《Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection》 （CVPR-2020）||
+|2020.6.19|1. 冯硕<br>（目标检测） |《Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection》 （CVPR-2020）| |
 |2020.6.19|2. 陈佳林<br>（GAN） |《MSG-GAN: Multi-Scale Gradient GAN for Stable Image Synthesis》 （CVPR-2020）||
 |2020.6.12|1. 何柱君<br>（目标检测） |《End-to-end Object Detection with Transformers》（CVPR-2020） ||
 |2020.6.12|2. 唐志鸿<br>（分割&检测） |MSCOCO分割与检测技术流||
@@ -126,7 +126,8 @@ List shared papers in our group
 |2019.10.14|赵杨<br>（上采样，Deformable Conv）|1）《CARAFE: Content-Aware ReAssembly of FEatures》（arXiv-2019）<br>2）《Deformable convolutional networks》（ICCV-2017）<br>3）《Deformable convnets v2: More deformable, better results》（CVPR-2019）||
 |2019.10.11|1. 苑思明<br>（Texture Classification）|《Multiresolution Gray-Scale and Rotation Invariant Texture Classification with Local Binary Patterns》（PAMI-2002）||
 |2019.10.11|2. 王都<br>（Object Detection）|《Libra r-cnn: Towards balanced learning for object detection》（CVPR-2019）<br>《Prime Sample Attention in Object Detection》（arXiv-2019）||
-|2019.10.8|李阳<br>（Features Aggregation）|1. Deep Layer Aggregation (CVPR2018) <br>2. DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation (CVPR2019) <br>3. Data-Driven Neuron Allocation for Scale Aggregation Networks (CVPR2019) ||
+|2019.10.8|李阳<br>（Features Aggregation）
+|1. Deep Layer Aggregation (CVPR2018) <br>2. DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation (CVPR2019) <br>3. Data-Driven Neuron Allocation for Scale Aggregation Networks (CVPR2019) ||
 |2019.9.30|尹志华<br>（目标检测）|《RepPoints: Point Set Representation for Object Detection》（arXiv-2019 ||
 |2019.9.2|冯硕<br>（目标检测）|FreeAnchor: Learning to Match Anchors for Visual Object Detection（NeurIPS-2019 ）||
 |2019.9.2|1）陈佳林<br>（image-to-image translation）|Multimodal unsupervised image-to-image translation（ECCV-2018）||
